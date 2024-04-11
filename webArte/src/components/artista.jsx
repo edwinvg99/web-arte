@@ -11,7 +11,7 @@ export default function Artista ({name, descripcion}) {
     <div class="flex flex-wrap -m-4">
       <div class="lg:w-1/3 sm:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://dummyimage.com/600x360"/>
+          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://www.reprodart.com/kunst/piet_mondrian_11026/komposition-ii.jpg"/>
           <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-blue-400 mb-1">THE SUBTITLE</h2>
             <h1 class="title-font text-lg font-medium text-white mb-3">Shooting Stars</h1>
@@ -21,7 +21,7 @@ export default function Artista ({name, descripcion}) {
       </div>
       <div class="lg:w-1/3 sm:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://dummyimage.com/601x361"/>
+          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://www.reprodart.com/kunst/piet_mondrian_11026/Wald-bei-Oele.jpg"/>
           <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-blue-400 mb-1">THE SUBTITLE</h2>
             <h1 class="title-font text-lg font-medium text-white mb-3">The Catalyzer</h1>
@@ -31,7 +31,7 @@ export default function Artista ({name, descripcion}) {
       </div>
       <div class="lg:w-1/3 sm:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://dummyimage.com/603x363"/>
+          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://www.reprodart.com/kunst/piet_mondrian_11026/thm_Komposition-mit-Rot-Gelb-Blau-und-Schwarz.jpg"/>
           <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-blue-400 mb-1">THE SUBTITLE</h2>
             <h1 class="title-font text-lg font-medium text-white mb-3">The 400 Blows</h1>
@@ -41,17 +41,7 @@ export default function Artista ({name, descripcion}) {
       </div>
       <div class="lg:w-1/3 sm:w-1/2 p-4">
         <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://dummyimage.com/602x362"/>
-          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
-            <h2 class="tracking-widest text-sm title-font font-medium text-blue-400 mb-1">THE SUBTITLE</h2>
-            <h1 class="title-font text-lg font-medium text-white mb-3">Neptune</h1>
-            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
-          </div>
-        </div>
-      </div>
-      <div class="lg:w-1/3 sm:w-1/2 p-4">
-        <div class="flex relative">
-          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://dummyimage.com/605x365"/>
+          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://www.reprodart.com/kunst/piet_mondrian_11026/Der-rote-Baum.jpg"/>
           <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
             <h2 class="tracking-widest text-sm title-font font-medium text-blue-400 mb-1">THE SUBTITLE</h2>
             <h1 class="title-font text-lg font-medium text-white mb-3">Holden Caulfield</h1>
@@ -59,6 +49,17 @@ export default function Artista ({name, descripcion}) {
           </div>
         </div>
       </div>
+      <div class="lg:w-1/3 sm:w-1/2 p-4">
+        <div class="flex relative">
+          <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://www.reprodart.com/kunst/piet_mondrian_11026/thm_komposition-mit-rot,-gelb,-blau_mondrian.jpg"/>
+          <div class="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
+            <h2 class="tracking-widest text-sm title-font font-medium text-blue-400 mb-1">THE SUBTITLE</h2>
+            <h1 class="title-font text-lg font-medium text-white mb-3">Neptune</h1>
+            <p class="leading-relaxed">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+          </div>
+        </div>
+      </div>
+    
       <div class="lg:w-1/3 sm:w-1/2 p-4">
         <div class="flex relative">
           <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center" src="https://dummyimage.com/606x366"/>
