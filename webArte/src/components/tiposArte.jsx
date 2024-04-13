@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Bloques ({titulo, descripcion})  {
+export default function TiposArte ({titulo, descripcion})  {
   return (
 <section className="text-gray-400 body-font bg-gray-900 border-b-2 border-indigo-500">
   <div className="container px-5 py-24 mx-auto">
