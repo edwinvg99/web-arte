@@ -1,4 +1,5 @@
 import React from "react";
+import LikeButton from "../components/svgImage/likeButton";
 
 export default function CardTipoArtista({
   urlImage,
@@ -21,7 +22,9 @@ export default function CardTipoArtista({
           {name}
         </h2>
         <p className="leading-relaxed text-base overflow-y-auto   max-h-40 p-1">{descripcion}</p>
+        <LikeButton/>
       </div>
+
     </div>
   );
 }

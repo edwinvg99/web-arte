@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function LinkedinImageSvg () {
   return (
-    <a className="ml-3 text-gray-400">
+    <a className="ml-3 text-gray-400 hover:text-blue-400">
     <svg
       fill="currentColor"
       stroke="currentColor"

@@ -1,4 +1,6 @@
 import React from "react";
+import LikeButton from "../components/svgImage/likeButton";
+
 export default function TiposArte({ titulo, descripcion, children}) {
   return (
     <section className="text-gray-400 body-font border-b-2 border-indigo-500 ">
@@ -15,10 +17,12 @@ export default function TiposArte({ titulo, descripcion, children}) {
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
+
         {children}
 
         </div>
       </div>
+      
     </section>
   );
 }

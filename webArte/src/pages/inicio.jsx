@@ -28,7 +28,7 @@ export default function Inicio() {
       urlImage: "https://acortar.link/1pPIs9",
       fecha: "1832 † 1898",
       name: "Iwan Iwanowitsch",
-      descripcion: "Iván Ivánovich Shishkin fue un pintor paisajista, grabador y miembro fundador de la Sociedad de Exposiciones Artísticas Itinerantes.",
+      descripcion: "Iván Ivánovich Shishkin fue un pintor paisajista, grabador y miembro fundador de la Sociedad de Exposiciones Artísticas Itinerantes. Shishkin basaba su trabajo en estudios analíticos de la naturaleza. Adquirió gran notoriedad por sus paisajes forestales, y reveló tener además grandes dotes para el dibujo técnico y el grabado.\n\nSus obras destacan por la poética descripción de las diferentes estaciones del año en los bosques y en los campos."
     },
   ];
 
