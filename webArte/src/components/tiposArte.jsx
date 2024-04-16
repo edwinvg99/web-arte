@@ -1,5 +1,5 @@
 import React from "react";
-import LikeButton from "../components/svgImage/likeButton";
+import LikeButton from "./likeButton";
 
 export default function TiposArte({ titulo, descripcion, children}) {
   return (

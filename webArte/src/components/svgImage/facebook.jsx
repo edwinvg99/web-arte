@@ -3,7 +3,7 @@ import React from "react";
 
 export default function FacebookImageSvg  () {
   return (
-    <a className ="text-gray-400">
+    <a className ="text-gray-400 hover:text-blue-400">
     <svg
       fill="currentColor"
       stroke-linecap="round"

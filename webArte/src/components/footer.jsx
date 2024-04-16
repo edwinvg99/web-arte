@@ -9,7 +9,7 @@ export default function Footer() {
     <footer className="text-gray-400 bg-gray-800 body-font flex flex-row">
       <div className="container px-5 py-8 mx-auto flex items-center justify-center  max-md:flex-col max-sm:flex-col flex-row  ">
 
-        <p className="text-sm text-gray-400 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-800 sm:py-2 sm:mt-0 ml-10 ">
+        <p className="text-sm text-gray-400 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-800 sm:py-2 sm:mt-0 ml-10 hover:scale-105 transition-transform duration-300">
           © 2020 Edwin VG —
           <a
             href="https://github.com/edwinvg99"
